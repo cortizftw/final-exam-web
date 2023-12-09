@@ -1,0 +1,20 @@
+{
+    "opinion": [
+      "strongly disagree",
+      "disagree",
+      "neutral",
+      "agree",
+      "strongly agree"
+    ],
+    "shoeSize": [
+      7,
+      7.5,
+      8,
+      8.5,
+      9,
+      9.5,
+      10,
+      11,
+      12
+    ]
+  }
